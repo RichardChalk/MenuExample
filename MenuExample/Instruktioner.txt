@@ -1,0 +1,18 @@
+Menu Example 
+============
+
+1: Vi börjar med att skapa en 'app' class i vå "MenuExample" projekt så vi kan lämna 'Main'
+
+2: I 'app' skriv en enkel metod som heter ShowMainMenu() som visar 3 alternativ till alla 3 projekt.
+
+3: Skapa ReadResponse(string resp) method i app
+
+4a: Skapa ett nytt console projekt i solution som heter 'Project1'
+
+4b: Skapa ett nytt console projekt i solution som heter 'Project2'
+
+4c: Skapa ett nytt console projekt i solution som heter 'Project3'
+
+5: Skapa class library och döp den till 'ServicesLibrary'
+
+6: Byt namn på 'Class1' in den nya library till 'GetProjects'
