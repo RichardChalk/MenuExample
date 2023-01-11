@@ -12,6 +12,8 @@ namespace MenuExample
 {
     public class app
     {
+        // Oh no!! The attack of the concretions!!
+        // A Factory sure would be nice here :)
         public ICalculatorServices CalcServices { get; set; } = new CalculatorServices();
         public IFormsServices FormsServices { get; set; } = new FormsServices();
         public IRPSServices RPSServices { get; set; } = new RPSServices();
