@@ -2,11 +2,6 @@
 using Project1;
 using Project2;
 using Project3;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace MenuExample
 {
